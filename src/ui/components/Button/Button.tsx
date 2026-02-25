@@ -8,11 +8,11 @@ const variants = cva(
     variants: {
       variant: {
         primary:
-          'bg-green-500 border-green-500 text-white hover:bg-green-600 hover:border-green-600 hover:shadow-lg hover:shadow-green-500/30',
+          'bg-primary-400 border-primary-400 text-white hover:bg-primary-300 hover:border-primary-300 hover:shadow-lg hover:shadow-primary-300/30',
         secondary:
-          'bg-transparent border-green-500 text-green-600 hover:bg-green-50/50',
+          'bg-transparent border-primary-400 text-primary-400 hover:bg-primary-300/50',
         ghost:
-          'border-transparent bg-transparent text-green-600 hover:border-green-500 hover:bg-green-50/30',
+          'border-transparent bg-transparent text-primary-400 hover:border-primary-400',
       },
     },
     defaultVariants: {
