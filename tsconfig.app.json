@@ -29,7 +29,8 @@
     "paths": {
       "@config/*": ["src/config/*"],
       "@ui/*": ["src/ui/*"],
-      "@features/*": ["src/features/*"]
+      "@features/*": ["src/features/*"],
+      "@utils/*": ["src/utils/*"]
     }
   },
   "include": ["src"]
